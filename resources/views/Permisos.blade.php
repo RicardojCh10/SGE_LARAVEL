@@ -17,7 +17,7 @@
 
         <br>
 
-        <div class="max-w-md w-full bg-white p-8 rounded-lg shadow-md">
+        <div class="max-w-md m-auto w-full bg-white p-8 rounded-lg shadow-md">
             <div class="flex justify-center">
                 <img class="h-24 w-24 rounded-full object-cover" src="https://via.placeholder.com/150" alt="Profile Picture">
             </div>

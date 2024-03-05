@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Route::get('/CrudDocente', function () {
     return view('CrudDocente');
@@ -40,3 +40,12 @@ Route::get('/editarPerfil', function(){
     return view('editarPerfil');
 });
 
+Route::get('/', function(){
+
+    return view('Login');
+});
+
+Route::get('/dashalumno', function(){
+
+    return view('Dashalumno');
+});

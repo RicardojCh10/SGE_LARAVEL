@@ -13,7 +13,7 @@
         
         <div class="bg-[#7ea3ca]">
 
-            <h1 class="text-3xl font-bold text-center text-white">Permisos</h1>
+            <h1 class="text-3xl font-bold text-center text-white">Editar Perfil</h1>
         </div>
 
         <div class="mt-5 mx-auto max-w-2xl">
