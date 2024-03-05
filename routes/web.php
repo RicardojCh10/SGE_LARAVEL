@@ -30,3 +30,13 @@ Route::get('/CrudPresidente', function () {
     return view('CrudPresidente');
 });
 
+Route::get('/permisos', function(){
+
+    return view('Permisos');
+});
+
+Route::get('/editarPerfil', function(){
+
+    return view('editarPerfil');
+});
+
